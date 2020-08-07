@@ -20,6 +20,9 @@ The data that will be used comes from the COVID-19 project by the Center for Sys
 
 # LINKS:
 
+Bayesian inference and forecast of COVID-19, code repository
+https://github.com/Priesemann-Group/covid19_inference
+
 Key Papers and References:
 https://drive.google.com/drive/folders/1qQ0ZsJaMT8W_mqhw8gzvbjzk4GW-sEA1
 
